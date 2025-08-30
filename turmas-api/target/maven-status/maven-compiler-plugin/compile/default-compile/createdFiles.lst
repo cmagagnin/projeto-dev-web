@@ -1,0 +1,11 @@
+com/example/turmas/domain/Turma.class
+com/example/turmas/api/error/GlobalExceptionHandler.class
+com/example/turmas/api/TurmaController.class
+com/example/turmas/api/dto/TurmaDto.class
+com/example/turmas/service/impl/TurmaServiceImpl.class
+com/example/turmas/domain/Turma$TurmaBuilder.class
+com/example/turmas/service/TurmaService.class
+com/example/turmas/domain/TurmaRepository.class
+com/example/turmas/api/dto/TurmaDto$TurmaDtoBuilder.class
+com/example/turmas/TurmasApiApplication.class
+com/example/turmas/shared/ResourceNotFoundException.class
